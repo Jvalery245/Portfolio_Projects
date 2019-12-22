@@ -8,6 +8,7 @@ The "Top to Max" feature being used in the project is an algorithm that takes th
 
 **Formula Logic and Example of Usage:**
 ```python
+#This logic is complete for every Product/Vendor/Store combination. The recursive loop consists of n to the 3rd
 if Current_Stocking_Level < Min:
     #Create a suggestion order logic
     Current_Stocking_Level - Max = Order_Unit_Suggestion
