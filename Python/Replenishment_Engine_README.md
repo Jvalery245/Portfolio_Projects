@@ -6,14 +6,20 @@ This project is an exercise in do, do while, and recursion principals. Within a 
 Facts Concerning Replenishment:
 The "Top to Max" feature being used in the project is an algorithm that takes the delta between the minimum and maximum values of set parameters and then compairs it to the smallest shippable unit or UOM of a product code. If the delta between the currect stocking level equals one pack size and the stocking goes below the minimum stocking level, then the system generates a purchase order automatically, if not the record is ignored until the new process is run. The validation of these minimum and maximum values are controlled and suggested based on logic algorithms that optimize supply chain flow and profitability.
 
-Formula Logic:
+Formula Logic and Example of Usage:
 if Current_Stocking_Level < Min:
-  -Create a suggestion logic
-  Current_Stocking_Level - Max = Order_Unit_Suggestion
-  if Order_Unit_Suggestion >= Pack_Size:
-    -- Commit to background process and generate an orders
-   else:
-    --Do not Generate an order because it does not equal a shippable unit 
+-Create a suggestion logic
+Current_Stocking_Level - Max = Order_Unit_Suggestion
+if Order_Unit_Suggestion >= Pack_Size:
+-- Commit to background process and generate an orders
 else:
-  -Do not create a suggestion
+--Do not Generate an order because it does not equal a shippable unit 
+else:
+-Do not create a suggestion
  
+Tools Used:
+Python
+Pandas
+
+Production Implementation Date:
+09/2019
