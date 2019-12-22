@@ -9,14 +9,15 @@ The "Top to Max" feature being used in the project is an algorithm that takes th
 **Formula Logic and Example of Usage:**
 ```python
 if Current_Stocking_Level < Min:
-    -Create a suggestion logic
+    #Create a suggestion order logic
     Current_Stocking_Level - Max = Order_Unit_Suggestion
-if Order_Unit_Suggestion >= Pack_Size:
-    -- Commit to background process and generate an orders
+    if Order_Unit_Suggestion >= Pack_Size:
+        #Commit to background process and generate an order
+    else:
+        #Do not Generate an order because it does not equal a shippable unit 
 else:
-    --Do not Generate an order because it does not equal a shippable unit 
-else:
-    -Do not create a suggestion
+    #Do not create a suggestion and ignore record entry
+    continue
  ```
  
 **Tools Used:**
