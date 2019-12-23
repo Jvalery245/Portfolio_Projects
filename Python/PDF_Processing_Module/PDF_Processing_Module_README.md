@@ -6,7 +6,7 @@ The warehouse is constantly sending out packages to the stores for orders that a
 **Project Logic Chart**
 1) Call out to the network folder and search for an files with the suffix '.pdf'
 2) If a file is found, open parsing engine, If not then wait another 5 minutes, and re-run the process.
-3) If a file is found, scan the first two pages to determine if the file is from the warehouse. If it is determined to not be, the file is left in the staging process and the program waits another 5 minutes. If it is, the file then parses the front and back pages of the document looking for relevant data concerning warehouse productivity and metrics. The regular expressions are created to locate the Transaction Number, Pick Ticket Number, Location Number, UPC/FedEx tracking number, and the AIRS ident Number. A new file is then put into the shared network folder with the directory that is created from the current date the file was scanned and a sub-directory with the original file stored.
+3) If a file is found, scan the first two pages to determine if the file is from the warehouse. If it is determined to not be, the file is left in the staging process and the program waits another 5 minutes. If it is, the program then parses the front and back pages of the document looking for relevant data concerning warehouse productivity and metrics. The regular expressions are created to locate the Transaction Number, Pick Ticket Number, Location Number, UPC/FedEx tracking number, and the AIRS ident Number. A new file is then put into the shared network folder with the directory that is created from the current date the file was scanned and a sub-directory with the original file stored.
 
 **Technologies Used**
 Python
