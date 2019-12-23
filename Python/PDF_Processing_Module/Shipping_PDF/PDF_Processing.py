@@ -2,13 +2,8 @@
 
 from PyPDF2 import PdfFileReader, PdfFileWriter
 import re
-import fitz
-import glob
-import datetime
 import os
 import shutil
-
-# Updated 10/15/2019
 
 
 class PDF_Rotation():
