@@ -3,10 +3,6 @@ Purpose:
 The allocation programs and Validation DLL work together to allow direct allocation purchase orders to be used by the Purchasing department using purchase
 order allocation spreadsheets but by the Purchasing/Marketing Lead Analyst.
 
-Passwords: (Hard coded)
-Admin: admin@lorisgifts.com, Purchasing2019
-General User: purchasing@lorisgifts.com, Purchasing1
-
 Build Language:
 C# and VBA
 
