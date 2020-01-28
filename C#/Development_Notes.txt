@@ -1,0 +1,14 @@
+﻿Concerns: Do the buyers know the costs and extra cost before upload?: Those costs/parameters are neccesary
+
+Unit Testing Exeption handling:
+
+SQL Upload Module:
+-Incorrect Format
+-Not containing the correct headers (Shows error corrections)
+-Not containing the correct sheet name (Shows error corrections)
+
+
+PO Generation Module:
+-Standardize File - Locking Formates
+
+worksheet = "marketing"

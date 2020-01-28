@@ -1,0 +1,10 @@
+﻿<Application x:Class="Allocation_Upload_Program.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Allocation_Upload_Program"
+             StartupUri="Login_Window.xaml">
+             <!--StartupUri="Admin_Window.xaml">-->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
