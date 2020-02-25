@@ -12,7 +12,7 @@
 -   Provides a direct form of communication between store and support team.
 -   Provides accountability for timeliness of requests submitted from stores and stackholders.
 -   Provides metrics for management to establish better forcasting and visability for needs of the retail stores.
-
+<p>&nbsp;</p>
 Revisions for Version 1.0.2:
 
 -   Improve UI experience
