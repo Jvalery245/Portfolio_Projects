@@ -8,6 +8,7 @@
 
 The purpose of this module witin the Retail Management Suite is to keep track of service requests internally from either the customer support center or corporate headquarters. The management system accomplishes the main goals
 
+
 -   Provides a direct form of communication between store and support team.
 -   Provides accountability for timeliness of requests submitted from stores and stackholders.
 -   Provides metrics for management to establish better forcasting and visability for needs of the retail stores.
