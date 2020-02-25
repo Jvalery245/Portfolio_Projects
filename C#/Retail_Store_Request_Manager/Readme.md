@@ -6,8 +6,8 @@
 <h3>Program Structure: CRU - No delete functionality due to internal task auditing.
 <h3>Technologies: .NetFramwork, C#, WPF, Dapper, and SQLServer 2019 Developer Edition
 <p>&nbsp;</p>
-<p>The purpose of this module witin the Retail Management Suite is to keep track of service requests internally from either the customer support center or corporate headquarters. The management system accomplishes the main goals </p>
-<p>&nbsp;</p>
+<p>The purpose of this module witin the Retail Management Suite is to keep track of service requests internally from either the customer support center or corporate headquarters.</p>
+<p>&nbsp;</p>The management system accomplishes the main goals:
 
 -   Provides a direct form of communication between store and support team.
 -   Provides accountability for timeliness of requests submitted from stores and stackholders.
