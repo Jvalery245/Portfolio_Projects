@@ -18,3 +18,11 @@ Revisions for Version 1.0.2:
 -   Improve UI experience
 -   Create email reading module to take emails and add directly to database and form logic to group each reponce into it requested service area; Python Tensorflow Module
 -   Send automated email responce once the email has been successfully added to the database.
+
+<p>&nbsp;</p>
+Note: This application should be used for non-sensitive information. The application has hard-coded access credentials and does encrypt data in the database. Please use at your own discretion.
+
+<p>&nbsp;</p>
+Instillation:
+<p>&nbsp;</p>
+Download all files from repo. Click "setup" application. Enjoy :-)
