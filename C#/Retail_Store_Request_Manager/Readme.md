@@ -21,3 +21,8 @@ Revisions for Version 1.0.2:
 
 <p>&nbsp;</p>
 Note: This application should be used for non-sensitive information. The application has hard-coded access credentials and does encrypt data in the database. Please use at your own discretion.
+
+<p>&nbsp;</p>
+Instillation:
+<p>&nbsp;</p>
+Download all files from repo. Click "setup" application. Enjoy :-)
