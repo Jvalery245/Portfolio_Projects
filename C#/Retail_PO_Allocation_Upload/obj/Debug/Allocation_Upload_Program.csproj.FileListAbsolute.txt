@@ -1,0 +1,6 @@
+C:\Users\DevUnit\Desktop\Updates\Portfolio_Projects\C#\Retail_PO_Allocation_Upload\obj\Debug\Allocation_Upload_Program.csproj.AssemblyReference.cache
+C:\Users\DevUnit\Desktop\Updates\Portfolio_Projects\C#\Retail_PO_Allocation_Upload\obj\Debug\General_User_Panel.g.cs
+C:\Users\DevUnit\Desktop\Updates\Portfolio_Projects\C#\Retail_PO_Allocation_Upload\obj\Debug\Admin_Window.g.cs
+C:\Users\DevUnit\Desktop\Updates\Portfolio_Projects\C#\Retail_PO_Allocation_Upload\obj\Debug\App.g.cs
+C:\Users\DevUnit\Desktop\Updates\Portfolio_Projects\C#\Retail_PO_Allocation_Upload\obj\Debug\Allocation_Upload_Program_MarkupCompile.cache
+C:\Users\DevUnit\Desktop\Updates\Portfolio_Projects\C#\Retail_PO_Allocation_Upload\obj\Debug\Allocation_Upload_Program_MarkupCompile.lref
