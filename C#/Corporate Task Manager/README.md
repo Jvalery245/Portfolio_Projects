@@ -10,7 +10,7 @@
 
 ---
 
-Need a platform for keeping track of all thouse small tasks? Look no furthur.
+Need a platform for keeping track of all thous small tasks? Look no further.
 
 This program is designed to provide metrics about tasks and also keep a team organized when working towards a goal. For your demo password and username please reach out to me at jvalery245@gmail.com!
 
@@ -29,7 +29,7 @@ Technology Stack:
 
 Functionalities:
 
--   Timing of indiviual tasks.
+-   Timing of individual tasks.
 -   Task completion indicator.
 -   Task export into excel format.
 -   Administrative panel
@@ -53,4 +53,4 @@ Functionalities:
 
 ---
 
-**NOTICE: SCDS and it's partners are not responsible for loss of data, curruption of data, or data integrity. By using this demo software, you release SCDS and its partners from all liabilities incurred with usage. For the secure production version, please contact me at jvalery245@gmail.com.**
+**NOTICE: SCDS and it's partners are not responsible for loss of data, corruption of data, or data integrity. By using this demo software, you release SCDS and its partners from all liabilities incurred with usage. For the secure production version, please contact me at jvalery245@gmail.com.**
